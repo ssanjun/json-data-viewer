@@ -1,5 +1,5 @@
 # JSON data Viewer
-JSON Data Viewer for DataGrip
+JSON Data Viewer for Intellij
 
 # Usage
 * Go to ```Tools > JSON data Viewer```
